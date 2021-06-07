@@ -89,7 +89,7 @@ describe('useCart Hook', () => {
       result.current.addProduct(productId);
     });
 
-    await waitForNextUpdate({ timeout: 200 });
+    await waitForNextUpdate({ timeout: 500 });
 
     expect(result.current.cart).toEqual(
       expect.arrayContaining([
