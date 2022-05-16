@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/tfbio/hook-carinho-de-compras/blob/main/github/sample.JPG"/>
+   <img src="https://github.com/tfbio/hook-carinho-de-compras/blob/master/github/sample.JPG"/>
 </p>
 <h1 align="center">RocketShoes React Hook<h1>
   
